@@ -11,3 +11,5 @@ quick_fix do tej galezi, na ktorej obecnie sie znadujemy
 ____ powyzsze wyczerpuje pierwsza i druga czesc warsztatu - czyli dodawanie
 plikow do repozytoium i tworzenie branchy_____
 git checkout nazwa_brancha - sluzy do przelaczania sie pomiedzy branchami
+
+a = 17;
