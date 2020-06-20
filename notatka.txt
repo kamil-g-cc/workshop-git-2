@@ -2,3 +2,8 @@ git status - do sprawdzenia statusu repozytorium
 git add - dodajemy pliki/plik do "staging area"
 git commit - "commitujemy" pliki ze "staging area" do repozytorium
 git log --pretty="%h %s" - wydrukuje skrocony identyfikator i temat commit'a
+git checkout -b nowy_branch - przelacza sie na "nowy_branch"
+git config --global core.editor notepad - sluzy do zmiany domyslnego edytora
+git checkout -b quick_fix - inny przyklad na stworzenie nowego branch'a
+git merge --no-ff quick_fix - spowoduje "zmergowanie" galezi/branch'a
+quick_fix do tej galezi, na ktorej obecnie sie znadujemy
