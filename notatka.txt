@@ -12,4 +12,7 @@ ____ powyzsze wyczerpuje pierwsza i druga czesc warsztatu - czyli dodawanie
 plikow do repozytoium i tworzenie branchy_____
 
 git checkout nazwa_brancha - sluzy do przelaczania sie pomiedzy branchami
-a = 13;
+1) stworzyc zdalne repozytorium na github //instrukcja jak zrobic krok 2
+bedzie widoczna na stronie github po stworzeniu repozytorium
+2) "spushowac" istniejace repozytorium z lokalnego komputera (jako jedna z
+opcji)
