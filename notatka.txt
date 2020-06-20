@@ -7,3 +7,6 @@ git config --global core.editor notepad - sluzy do zmiany domyslnego edytora
 git checkout -b quick_fix - inny przyklad na stworzenie nowego branch'a
 git merge --no-ff quick_fix - spowoduje "zmergowanie" galezi/branch'a
 quick_fix do tej galezi, na ktorej obecnie sie znadujemy
+
+____ powyzsze wyczerpuje pierwsza i druga czesc warsztatu - czyli dodawanie
+pliow do repozytoium i tworzenie branchy_____
