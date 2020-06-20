@@ -1,1 +1,1 @@
-"git status - do sprawdzenia statusu repozytorium" 
+git status - do sprawdzenia statusu repozytorium
