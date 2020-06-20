@@ -1,1 +1,3 @@
 git status - do sprawdzenia statusu repozytorium
+git add - dodajemy pliki/plik do "staging area"
+git commit - "commitujemy" pliki ze "staging area" do repozytorium
